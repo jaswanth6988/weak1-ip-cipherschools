@@ -1,0 +1,15 @@
+<docttype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta htts-equiv="x-UA-compatible" content="IE-edge">
+        <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+        <title>Quotes</title>
+    </head>
+    <body>
+        <blockquote>
+            <q>failure is an option here .if things are not falling.you are not innovating enough</q>
+        <cite>Elon mask</cite>
+        </blockquote>
+    </body>
+    </html>
