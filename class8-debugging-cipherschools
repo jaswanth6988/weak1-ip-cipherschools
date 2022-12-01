@@ -1,0 +1,18 @@
+<docttype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta htts-equiv="x-UA-compatible" content="IE-edge">
+        <meta name="viewpoint"content="width=device-width,initial-scale=1.0">
+        <title>Debugging in html</html></title>
+    </head>
+    <body>
+        <h2>paragraph</h2>
+        <p>
+            a paragraph is a series of relates sentenses developing a centra; idea, called the topic.
+            Try to think about paragraph in term of thematic unity: a paragraph is a sentense or a
+            group of sentenses that supports one central, unified idea. paragraph add one idea at a
+            time to your border argument.
+        </p>
+    </body>
+    </html>
